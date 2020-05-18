@@ -1,0 +1,11 @@
+.abc {
+  width: 200px;
+  height: 50px;
+  display: block;
+  border: 1px solid;
+  opacity: 0;
+}
+
+* {
+  transition: none;
+}
